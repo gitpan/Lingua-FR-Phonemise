@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Lingua-FR-Phonemise.t
+lib/Lingua/FR/Phonemise.pm

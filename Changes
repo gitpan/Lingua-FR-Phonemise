@@ -1,0 +1,6 @@
+Revision history for Perl extension Lingua::FR::Phonemise.
+
+0.01  Sat Apr  5 15:43:27 2008
+	- original version; created by h2xs 1.23 with options
+		-XAn Lingua::FR::Phonemise
+
